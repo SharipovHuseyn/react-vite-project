@@ -1,0 +1,15 @@
+/* header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 2px solid rgb(161, 161, 161);
+  align-items: center;
+} */
+
+header h3 {
+  color: aliceblue;
+}
+
+header span {
+  color: rgb(201, 201, 201);
+}

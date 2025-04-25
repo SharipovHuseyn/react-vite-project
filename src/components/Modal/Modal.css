@@ -1,0 +1,18 @@
+dialog{
+    width: 400px;
+    margin: 10rem auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    z-index: 100;
+}
+
+dialog h2{
+    color: white;
+}
+
+dialog p{
+    color: rgb(141, 141, 141);
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
